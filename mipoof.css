@@ -1,7 +1,7 @@
 .relative {
     background: lightpink;
-    height: 100px;
-    width: 1200px;
+    height: 70px;
+    width: 1520px;
 }
 
 .img-start {
@@ -10,7 +10,11 @@
     width: 350px
 }
 
-#img-master{
+#img-master {
     border-left: 12px dashed palevioletred;
     border-right: 12px dashed palevioletred;
+}
+
+.img-start2 {
+    border: 8px solid mediumpurple;
 }
