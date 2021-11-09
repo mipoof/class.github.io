@@ -1,10 +1,16 @@
 .relative {
     background: lightpink;
     height: 100px;
-    width: 1905px;
+    width: 1200px;
 }
 
 .img-start {
     border: 10px solid white;
-    border-right:12px dashed palevioletred; height:450px;width:350px
+    height: 450px;
+    width: 350px
+}
+
+#img-master{
+    border-left: 12px dashed palevioletred;
+    border-right: 12px dashed palevioletred;
 }
