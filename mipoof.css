@@ -1,5 +1,10 @@
 .relative {
     background: lightpink;
     height: 100px;
-    width: 1520px;
+    width: 1905px;
+}
+
+.img-start {
+    border: 10px solid white;
+    border-right:12px dashed palevioletred; height:450px;width:350px
 }
